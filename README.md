@@ -31,12 +31,11 @@ console.log(isEmptyObj({ location: "mars" }));
     
 ## :memo: Documentation
         
-### `isEmptyObj(input, b)`
+### `isEmptyObj(input)`
 Check if an object is empty or not. This will throw if you don't pass an object.
 
 #### Params
 - **Object|Array** `input`: The input object.
-- **Number** `b`: Param descrpition.
 
 #### Return
 - **Boolean** `true` if the object doesn't have any keys. `false` otherwise.
