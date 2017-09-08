@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Check if an object is empty or not. This will throw if you don't pass an object.
 
 #### Params
+
 - **Object|Array** `obj`: The input object.
 
 #### Return
