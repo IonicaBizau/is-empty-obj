@@ -16,7 +16,7 @@
   "version": "1.0.12",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "repository": {
@@ -41,5 +41,8 @@
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
-  ]
+  ],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
