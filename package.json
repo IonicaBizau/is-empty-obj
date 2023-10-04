@@ -44,5 +44,8 @@
   ],
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "contributors": [
+    "Jalu Wibowo <jaluwibowoaji@gmail.com> (https://jaluwibowo.id)"
+  ]
 }
