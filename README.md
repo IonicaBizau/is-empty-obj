@@ -179,12 +179,13 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `scrape-it`
  - `tilda`
  - `bloggify-flexible-router`
+ - `scrape-it-core`
  - `obj-key-count`
- - `scrape-it-plus`
  - `@slikts/scrape-it`
+ - `scrape-it-plus`
+ - `@ywzhaiqi/scrape-it-core`
 
 
 
